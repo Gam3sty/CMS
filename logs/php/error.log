@@ -1,0 +1,2 @@
+[08-Dec-2024 03:44:16 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\caleb\Local Sites\assignment\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
+[08-Dec-2024 03:44:16 UTC] PHP Warning:  Attempt to read property "ID" on null in C:\Users\caleb\Local Sites\assignment\app\public\wp-includes\rest-api\endpoints\class-wp-rest-autosaves-controller.php on line 167
